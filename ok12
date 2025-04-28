@@ -1,0 +1,233 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Class 12 Notes | CGBSE + NEET</title>
+  <style>
+    body {
+      font-family: 'Poppins', sans-serif;
+      margin: 0;
+      background: #eef2f3;
+      color: #333;
+      scroll-behavior: smooth;
+    }
+
+    header {
+      background: linear-gradient(to right, #4facfe, #00f2fe);
+      color: white;
+      text-align: center;
+      padding: 50px 20px;
+      font-size: 3em;
+      font-weight: bold;
+      text-shadow: 2px 2px 4px rgba(0,0,0,0.5);
+    }
+
+    section {
+      padding: 40px 20px;
+      max-width: 1200px;
+      margin: auto;
+    }
+
+    h2 {
+      color: #0072ff;
+      font-size: 2em;
+      margin-bottom: 20px;
+      border-bottom: 2px solid #0072ff;
+      padding-bottom: 5px;
+    }
+
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      margin-bottom: 40px;
+    }
+
+    th, td {
+      border: 1px solid #ccc;
+      padding: 15px;
+      text-align: center;
+      font-size: 1.1em;
+    }
+
+    th {
+      background-color: #00b4db;
+      color: white;
+    }
+
+    tr:nth-child(even) {
+      background-color: #e0f7fa;
+    }
+
+    .chapter {
+      background: white;
+      border-radius: 10px;
+      padding: 30px;
+      margin-bottom: 50px;
+      box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+    }
+
+    img {
+      width: 100%;
+      max-width: 600px;
+      margin: 20px auto;
+      display: block;
+      border-radius: 10px;
+      box-shadow: 0 2px 10px rgba(0,0,0,0.3);
+    }
+
+    footer {
+      text-align: center;
+      background: linear-gradient(to right, #00b4db, #0083b0);
+      color: white;
+      padding: 20px;
+      margin-top: 50px;
+    }
+
+    .important {
+      color: crimson;
+      font-weight: bold;
+    }
+
+    ul {
+      text-align: left;
+      line-height: 1.7;
+      font-size: 1.1em;
+    }
+
+    a {
+      color: #0072ff;
+      text-decoration: none;
+    }
+
+    a:hover {
+      text-decoration: underline;
+    }
+
+  </style>
+</head>
+<body>
+
+<header>
+  📚 Class 12 CGBSE + NEET Full Notes
+</header>
+
+<section>
+
+  <h2>🗂️ Chapter Index</h2>
+
+  <table>
+    <tr>
+      <th>Chapter No.</th>
+      <th>Chapter Name</th>
+      <th>Subject</th>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td><a href="#chapter1">Electric Charges and Fields</a></td>
+      <td>Physics</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td><a href="#chapter2">Solid State</a></td>
+      <td>Chemistry</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td><a href="#chapter3">Human Reproduction</a></td>
+      <td>Biology</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td><a href="#chapter4">Sexual Reproduction in Flowering Plants</a></td>
+      <td>Biology</td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td><a href="#chapter5">Current Electricity</a></td>
+      <td>Physics</td>
+    </tr>
+  </table>
+
+  <!-- Chapter 1 -->
+  <div id="chapter1" class="chapter">
+    <h2>⚡ Chapter 1: Electric Charges and Fields (Physics)</h2>
+    <p>Electric charge is a fundamental property of matter which causes it to experience a force when placed in an electric and magnetic field.</p>
+
+    <ul>
+      <li><span class="important">Coulomb’s Law:</span> The electrostatic force between two point charges is directly proportional to the product of charges and inversely proportional to the square of distance.</li>
+      <li><span class="important">Electric Field:</span> Region around a charge where another charge experiences a force.</li>
+      <li><span class="important">Electric Dipole:</span> Two equal and opposite charges separated by a small distance.</li>
+      <li><span class="important">Applications:</span> Capacitors, photocopiers, and Van de Graaff generators.</li>
+    </ul>
+
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Electric_Field_Lines.svg" alt="Electric Field Lines Diagram">
+  </div>
+
+  <!-- Chapter 2 -->
+  <div id="chapter2" class="chapter">
+    <h2>🧪 Chapter 2: Solid State (Chemistry)</h2>
+    <p>Solids are rigid and have definite shape and volume. Intermolecular forces are strongest in solids.</p>
+
+    <ul>
+      <li><span class="important">Types of Solids:</span> Crystalline (ordered structure) and Amorphous (irregular structure).</li>
+      <li><span class="important">Unit Cell:</span> Smallest repeating structure in a crystal lattice.</li>
+      <li><span class="important">Packing Efficiency:</span> BCC < FCC < HCP arrangements.</li>
+      <li><span class="important">Defects:</span> Schottky Defect (missing ions) and Frenkel Defect (displaced ions).</li>
+    </ul>
+
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/90/Cubic-body-centered-unit-cell-3D-balls.png" alt="Solid State Structure Diagram">
+  </div>
+
+  <!-- Chapter 3 -->
+  <div id="chapter3" class="chapter">
+    <h2>🧬 Chapter 3: Human Reproduction (Biology)</h2>
+    <p>The process by which a new individual of the same species is produced involving the union of male and female gametes.</p>
+
+    <ul>
+      <li><span class="important">Male System:</span> Testes, vas deferens, urethra, penis.</li>
+      <li><span class="important">Female System:</span> Ovaries, fallopian tubes, uterus, vagina.</li>
+      <li><span class="important">Important Events:</span> Gametogenesis, fertilization, implantation, parturition.</li>
+      <li><span class="important">Hormones:</span> FSH, LH, Estrogen, Progesterone.</li>
+    </ul>
+
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Human_Reproductive_System.png" alt="Human Reproductive System Diagram">
+  </div>
+
+  <!-- Chapter 4 -->
+  <div id="chapter4" class="chapter">
+    <h2>🌸 Chapter 4: Sexual Reproduction in Flowering Plants (Biology)</h2>
+    <p>Reproduction in flowering plants involves complex biological processes starting from pollination to seed development.</p>
+
+    <ul>
+      <li><span class="important">Pollination:</span> Transfer of pollen grains from anther to stigma.</li>
+      <li><span class="important">Double Fertilization:</span> Unique feature of angiosperms where one sperm fertilizes egg and another forms endosperm.</li>
+      <li><span class="important">Seed Development:</span> Ovule develops into seed, ovary develops into fruit.</li>
+    </ul>
+
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Double_fertilization_diagram.png" alt="Double Fertilization Diagram">
+  </div>
+
+  <!-- Chapter 5 -->
+  <div id="chapter5" class="chapter">
+    <h2>🔋 Chapter 5: Current Electricity (Physics)</h2>
+    <p>Electric current is the flow of electric charge (generally electrons) in a conductor like metal wire.</p>
+
+    <ul>
+      <li><span class="important">Ohm’s Law:</span> V = IR (Voltage = Current × Resistance)</li>
+      <li><span class="important">Resistivity:</span> Property of material affecting resistance (constant for given material).</li>
+      <li><span class="important">Series and Parallel Circuits:</span> Different ways of connecting resistors.</li>
+      <li><span class="important">Kirchhoff's Laws:</span> Used for analyzing complex circuits.</li>
+    </ul>
+
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/28/Simple_circuit_diagram.png" alt="Simple Circuit Diagram">
+  </div>
+
+</section>
+
+<footer>
+  🚀 Made with ❤️ for CGBSE & NEET students | © 2025
+</footer>
+
+</body>
+</html>
